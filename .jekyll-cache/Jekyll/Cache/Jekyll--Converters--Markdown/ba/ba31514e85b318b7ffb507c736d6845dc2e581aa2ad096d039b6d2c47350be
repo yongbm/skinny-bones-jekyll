@@ -1,0 +1,62 @@
+I"<!-- ![test image Dogepig](/images/Bang_profile_40p.jpg) -->
+<div style="background-color:black;color:white;padding:20px;">
+<kbd><img style="border-radius: 50px; float: right; width: 50%" src="/images/Bang_profile_40p.jpg" alt="Bang Ming Yong profile" /></kbd>
+</div>
+<h1 id="awards">Awards</h1>
+
+<div class="tiles">
+
+	
+
+	
+		<li><span>March 03, 2014</span> &raquo; <a href="http://localhost:4000/portfolio/Hello-World/">You're up and running!</a></li>
+	
+
+	
+		<li><span>March 03, 2014</span> &raquo; <a href="http://localhost:4000/portfolio/Hello-World-Copy/">You're up and running!</a></li>
+	
+
+	
+		<li><span>March 03, 2014</span> &raquo; <a href="http://localhost:4000/portfolio/Hello-World-Copy-(4)/">You're up and running!</a></li>
+	
+
+	
+		<li><span>March 03, 2014</span> &raquo; <a href="http://localhost:4000/portfolio/Hello-World-Copy-(3)/">You're up and running!</a></li>
+	
+
+	
+		<li><span>March 03, 2014</span> &raquo; <a href="http://localhost:4000/portfolio/Hello-World-Copy-(2)/">You're up and running!</a></li>
+	
+
+</div>
+<!-- /.tiles -->
+
+<h1 id="latest-thoughts">Latest thoughts</h1>
+
+<div class="tiles">
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/article/First-post/" title="First test post" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2022-03-22" itemprop="datePublished">March 22, 2022</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/article/First-post/">First test post</a></h2>
+  <p class="post-excerpt" itemprop="description">Nothing too special on this page. Just a test page to see if it it is working.
+</p>
+</article><!-- /.tile -->
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</div>
+<!-- /.tiles -->
+:ET

@@ -1,0 +1,98 @@
+I"<h1 id="awards">Awards</h1>
+
+<div class="tiles">
+
+	
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/portfolio/Hello-World/" title="You're up and running!" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2014-03-03" itemprop="datePublished">March 03, 2014</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/portfolio/Hello-World/">You're up and running!</a></h2>
+  <p class="post-excerpt" itemprop="description">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+</p>
+</article><!-- /.tile -->
+
+	
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/portfolio/Hello-World-Copy/" title="You're up and running!" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2014-03-03" itemprop="datePublished">March 03, 2014</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/portfolio/Hello-World-Copy/">You're up and running!</a></h2>
+  <p class="post-excerpt" itemprop="description">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+</p>
+</article><!-- /.tile -->
+
+	
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/portfolio/Hello-World-Copy-(4)/" title="You're up and running!" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2014-03-03" itemprop="datePublished">March 03, 2014</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/portfolio/Hello-World-Copy-(4)/">You're up and running!</a></h2>
+  <p class="post-excerpt" itemprop="description">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+</p>
+</article><!-- /.tile -->
+
+	
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/portfolio/Hello-World-Copy-(3)/" title="You're up and running!" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2014-03-03" itemprop="datePublished">March 03, 2014</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/portfolio/Hello-World-Copy-(3)/">You're up and running!</a></h2>
+  <p class="post-excerpt" itemprop="description">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+</p>
+</article><!-- /.tile -->
+
+	
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/portfolio/Hello-World-Copy-(2)/" title="You're up and running!" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2014-03-03" itemprop="datePublished">March 03, 2014</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/portfolio/Hello-World-Copy-(2)/">You're up and running!</a></h2>
+  <p class="post-excerpt" itemprop="description">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+</p>
+</article><!-- /.tile -->
+
+	
+
+</div>
+<!-- /.tiles -->
+
+<h1 id="latest-thoughts">Latest thoughts</h1>
+
+<div class="tiles">
+
+	
+		<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/article/First-post/" title="First test post" class="post-teaser"><img src="http://localhost:4000/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2022-03-22" itemprop="datePublished">March 22, 2022</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/article/First-post/">First test post</a></h2>
+  <p class="post-excerpt" itemprop="description">Nothing too special on this page. Just a test page to see if it it is working.
+</p>
+</article><!-- /.tile -->
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</div>
+<!-- /.tiles -->
+:ET
