@@ -1,16 +1,18 @@
 ---
 layout: archive
 permalink: /
-title: "Bang Ming Yong"
+title: 
 ---
+
+<!-- {% include menu.html %} -->
 
 <div>
 	<h5>
-		<a style="padding: 10px;" href="/">MAIN</a>
-		<a style="padding: 10px;" href="thoughts.html">THOUGHTS</a>
-		<a style="padding: 10px;" href="about.html">ABOUT</a>
-		<a style="padding: 10px;" href="projects.html">PROJECTS</a>
-		<a style="padding: 10px;" href="contact.html">CONTACT</a>
+		<a class="btn" href="/">MAIN</a>
+		<a class="btn-inverse" href="thoughts.html">THOUGHTS</a>
+		<a class="btn-inverse" href="about.html">ABOUT</a>
+		<a class="btn-inverse" href="projects.html">PROJECTS</a>
+		<a class="btn-inverse" href="contact.html">CONTACT</a>
 	</h5>
 </div>
 
@@ -45,7 +47,7 @@ title: "Bang Ming Yong"
 <div style="display: inline-block; background-color: #1a7a59">
 	<div class="tiles">
 	<h2>Latest thoughts</h2>
-	{% for post in site.posts %}
+	{% for post in site.posts limit:3 %}
 		{% if post.categories contains "article" %}
 			{% include post-grid.html %}
 		{% endif %}

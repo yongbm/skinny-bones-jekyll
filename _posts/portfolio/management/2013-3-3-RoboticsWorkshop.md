@@ -1,7 +1,8 @@
 ---
 layout: article
-title: You're up and running!
+title: IEEE robotics workshop
 categories: portfolio
+tags: management
 image:
  teaser: 400x250.gif
 ---

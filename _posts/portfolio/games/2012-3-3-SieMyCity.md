@@ -1,7 +1,8 @@
 ---
 layout: article
-title: You're up and running!
+title: SieMyCity
 categories: portfolio
+tags: games
 image:
  teaser: 400x250.gif
 ---

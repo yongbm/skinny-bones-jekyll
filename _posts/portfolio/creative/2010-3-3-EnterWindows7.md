@@ -1,7 +1,8 @@
 ---
 layout: article
-title: You're up and running!
+title: Enter Windows 7
 categories: portfolio
+tags: creative
 image:
  teaser: 400x250.gif
 ---

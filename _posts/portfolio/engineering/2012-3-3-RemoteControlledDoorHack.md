@@ -1,7 +1,8 @@
 ---
 layout: article
-title: You're up and running!
+title: Remote controlled door hack
 categories: portfolio
+tags: engineering
 image:
  teaser: 400x250.gif
 ---
