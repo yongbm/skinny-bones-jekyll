@@ -1,4 +1,4 @@
-{% if page.categories and page.categories != empty %}
+<!-- {% if page.categories and page.categories != empty %}
   <nav class="breadcrumbs">
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
       <a href="{{ site.url }}" itemprop="url">
@@ -9,5 +9,8 @@
         <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
       </a>
     </span>
-  </nav><!-- /.breadcrumbs -->
-{% endif %}
+  </nav><!-- /.breadcrumbs
+{% endif %} -->
+<h5>
+  <a class="btn-inverse" onclick="window.history.back()">BACK</a>
+</h5>
