@@ -5,7 +5,7 @@ categories: portfolio
 tags: management
 image:
  teaser: teaser/teaser-dotatournament.jpg
- feature: feature/clouds.jpg
+ # feature: feature/clouds.jpg
 ---
 
 ![Dota tournament]({{ site.baseurl }}/images/portfolio/portfolio-dota1.jpg)
