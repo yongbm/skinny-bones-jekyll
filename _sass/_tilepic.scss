@@ -1,0 +1,20 @@
+/* ==========================================================================
+   Tile Pic
+   ========================================================================== */
+
+/*.tilepic {
+  @include outer-container;
+  margin-bottom: $gutter;
+  @include media($micro) {
+    @include fill-parent;
+  }
+
+  @include media(new-breakpoint(min-width em(480) 12)) {
+    @include span-columns(6);
+    @include omega();
+    @include pad(.5em);
+  }
+}*/
+.tilepic {
+display:inline-block;
+}
