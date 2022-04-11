@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: Dota tournament
 categories: portfolio
 tags: management

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: IronHorse
 categories: portfolio
 tags: management

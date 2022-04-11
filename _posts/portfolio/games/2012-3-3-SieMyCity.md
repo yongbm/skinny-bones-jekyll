@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: SieMyCity
 categories: portfolio
 tags: games

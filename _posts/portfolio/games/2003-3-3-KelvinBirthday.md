@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: Kelvin's Birthday
 categories: portfolio
 tags: games

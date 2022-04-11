@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: IEEE robotics workshop
 categories: portfolio
 tags: management
