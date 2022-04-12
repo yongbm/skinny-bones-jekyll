@@ -16,18 +16,18 @@ title:
 	</h5>
 </div>
 
-<div style="background-color:black;color:white;padding:20px;">
+<div style="background-color:;color:;padding:20px;">
 	<div style="">
-		<p>A collection of thoughts. </p>
+		<p style="font-size: 25px;">A collection of thoughts. </p>
 	</div>
 	<div style="">
 	<!-- 	<img style="border-radius: 50px; float: right; width: 100%;" src="/images/Bang_profile_40p.jpg" alt="Bang Ming Yong profile"> -->
 	</div>
 </div>
 
-<div style="display: inline-block; background-color: #1a7a59">
+<div style="display: inline-block; background-color: #00ABE1">
 	<div class="tiles">
-	<h2>Latest thoughts</h2>
+	<!-- <h2 style="color: #161F6D; padding:5px;">Thoughts</h2> -->
 	{% for post in site.posts %}
 		{% if post.categories contains "article" %}
 			{% include post-grid.html %}

@@ -47,9 +47,9 @@ title:
 </div>
 
 
-<div style="display: inline-block; background-color: #ff7a59">
+<div style="display: inline-block; background-color: #FECD45">
 	<div class="tiles">
-	<h2>Highlights</h2>
+	<h2 style="color: #161F6D; padding:5px;">Highlights</h2>
 	{% for post in site.posts %}
 		{% if post.categories contains "highlights" %}
 			{% include post-highlights.html %}
@@ -58,9 +58,9 @@ title:
 	</div><!-- /.tiles -->
 </div>
 
-<div style="display: inline-block; background-color: #1a7a59">
+<div style="display: inline-block; background-color: #00ABE1">
 	<div class="tiles">
-	<h2>Latest thoughts</h2>
+	<h2 style="color: #161F6D; padding:5px;">Latest thoughts</h2>
 	{% for post in site.posts limit:3 %}
 		{% if post.categories contains "article" %}
 			{% include post-grid.html %}
