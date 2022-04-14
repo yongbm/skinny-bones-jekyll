@@ -23,6 +23,21 @@ plugins:
   - jekyll-gist
   - jekyll-feed
 
+# footer links
+footer-links:
+  dribbble:
+  email:
+  facebook: yong.bang.ming
+  flickr:
+  github: yongbm
+  instagram: yongbm89
+  linkedin: bang-ming-yong-5111ab87
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: ybming
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: dante10ybm # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Site owner
 owner:
