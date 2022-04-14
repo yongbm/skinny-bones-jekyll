@@ -2,6 +2,7 @@
 layout: media
 title: University projects
 categories: portfolio
+excerpt: Collection of electronic engineering university projects in USM.
 tags: engineering
 image:
  teaser: teaser/teaser-8051battleship.jpg

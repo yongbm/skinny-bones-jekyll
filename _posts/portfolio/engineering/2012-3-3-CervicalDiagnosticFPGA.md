@@ -2,6 +2,7 @@
 layout: media
 title: Cervical cancer diagnostic tool FPGA
 categories: portfolio
+excerpt: FPGA-based cervical cancer device which utlizes artificial neural networks to perform diagnostics.
 tags: engineering
 image:
  teaser: teaser/teaser-fpgacervical.jpg

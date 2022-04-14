@@ -2,6 +2,7 @@
 layout: media
 title: ICON Apps 3 - Interware
 categories: portfolio
+excerpt: Windows app to interface between windows devices and Arduino, developed as part of MDEC's ICON Apps 3.
 tags: engineering
 image:
  teaser: teaser/teaser-interware.jpg

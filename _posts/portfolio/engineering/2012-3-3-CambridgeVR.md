@@ -2,6 +2,7 @@
 layout: media
 title: Cambridge VR
 categories: portfolio
+excerpt: Cambridge VR projects.
 tags: engineering
 image:
  teaser: teaser/teaser-ifmvr.jpg

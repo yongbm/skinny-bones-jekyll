@@ -2,13 +2,13 @@
 layout: media
 title: SieMyCity
 categories: portfolio
+excerpt: City building game to promote sustainability in Malaysia, designed for a university competition.
 tags: games
 image:
  teaser: teaser/teaser-siemycity.jpg
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
 
 ![Siemycity 1]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity1.jpg)
 ![Siemycity 2]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity2.jpg)

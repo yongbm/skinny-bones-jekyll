@@ -2,12 +2,15 @@
 layout: media
 title: Kelvin's Birthday
 categories: portfolio
+excerpt: RPG game starring my schoolmates which I designed when I was 14.
 tags: games
 image:
  teaser: teaser/teaser-kelvinsbirthday.jpg
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Developed a complete RPG game using RPG Maker 95 for my friend, Kelvin Long, as his birthday present. The characters are based on a few of our classmates. I created custom pixel art sprites using MS Paint 98 (great software) because that was all I had access at the time.
+
+Had my 2 weeks of fame as all of my classmates were eagerly in queue to borrow the CD (ancient times) for the software. I had a lot of fun designing the characters, the maps, and also sprinkling the game with easter eggs and hidden treasures. This is arguably my first real taste of game development.
 
 ![KB 1]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb1.jpg)
 ![KB 3]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb3.jpg)

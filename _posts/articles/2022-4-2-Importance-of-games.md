@@ -8,6 +8,11 @@ image:
 
 Why are games important?
 
+---
+
+Games are important because:
+
+
 ![test image Dogepig]({{site.baseurl}}/images/dogepig-Bang-Profile_png.png)
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png)

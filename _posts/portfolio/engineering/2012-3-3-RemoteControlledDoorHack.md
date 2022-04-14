@@ -2,6 +2,7 @@
 layout: media
 title: Remote controlled door hack
 categories: portfolio
+excerpt: Hacked my university dorm room door to utilize remote control instead of keys.
 tags: engineering
 image:
  teaser: teaser/teaser-roomdoorhack.jpg

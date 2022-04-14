@@ -2,11 +2,12 @@
 layout: media
 title: School magazine artwork
 categories: portfolio
+excerpt: Artwork designed for school magazine.
 tags: creative
 image:
  teaser: teaser/teaser-schoolmagazine.jpg
 ---
-# 157 char
+
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the The .easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the.
 
 ![Above the clouds]({{ site.baseurl }}/images/portfolio/portfolio-magazine1.jpg)

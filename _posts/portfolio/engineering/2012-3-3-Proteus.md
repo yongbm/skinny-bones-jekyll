@@ -2,6 +2,7 @@
 layout: media
 title: Brother Proteus
 categories: portfolio
+excerpt: Robot that is controlled via gestures captured from a Kinect sensor.
 tags: engineering
 image:
  teaser: teaser/teaser-proteus.jpg

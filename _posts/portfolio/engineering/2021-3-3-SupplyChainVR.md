@@ -2,6 +2,7 @@
 layout: media
 title: Network visualizer VR 
 categories: portfolio
+excerpt: Exploratory project to visualize actual supply chain network data in VR.
 tags: engineering
 image:
  teaser: teaser/teaser-supplychainvr.jpg

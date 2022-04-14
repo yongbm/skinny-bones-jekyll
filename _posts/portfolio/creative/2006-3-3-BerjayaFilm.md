@@ -2,6 +2,7 @@
 layout: media
 title: Berjaya Youth Film Competition 2012
 categories: portfolio
+excerpt: First attempt at directing a short film.
 tags: creative
 image:
  teaser: teaser/teaser-berjayafilm2012.jpg

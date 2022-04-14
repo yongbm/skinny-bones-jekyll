@@ -6,6 +6,9 @@ image:
  teaser: teaser/teaser-valedictorian.jpg
 ---
 
+Graduated top of my cohort in 2013.
+
+---
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![valedictorian]({{ site.baseurl }}/images/highlights/highlights-valedictorian1.jpg)

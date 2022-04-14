@@ -2,6 +2,7 @@
 layout: media
 title: Computer Club Promo
 categories: portfolio
+excerpt: A series of videos to promote my high school computer club.
 tags: creative
 image:
  teaser: teaser/teaser-computerclub.jpg

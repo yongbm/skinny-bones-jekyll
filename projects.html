@@ -5,6 +5,20 @@ title:
 ---
 
 <!-- {% include menu.html %} -->
+<style>
+.flex-container {
+  display: flex;
+  /*background-color: DodgerBlue;*/
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.category-heading{
+	color: #161F6D; 
+	padding-left:20px;
+}
+</style>
 
 <div>
 	<h5>
@@ -26,8 +40,8 @@ title:
 </div>
 
 <div style="display: inline-block; background-color:#FECD45;border: 3px solid; border-radius: 20px; border-color:#FECD45; margin-bottom: 30px;">
-	<div class="tiles">
-	<h2 style="color: #161F6D; padding:5px;">Games</h2>
+	<h2 class="category-heading">Games</h2>
+	<div class="flex-container">
 	{% for post in site.posts %}
 		{% if post.tags contains "games" %}
 			{% include post-grid.html %}
@@ -37,8 +51,8 @@ title:
 </div>
 
 <div style="display: inline-block; background-color:#00ABE1;border: 3px solid; border-radius: 20px; border-color:#00ABE1; margin-bottom: 30px;">
-	<div class="tiles">
-	<h2 style="color: #161F6D; padding:5px;">Engineering</h2>
+	<h2 class="category-heading">Engineering</h2>
+	<div class="flex-container">
 	{% for post in site.posts %}
 		{% if post.tags contains "engineering" %}
 			{% include post-grid.html %}
@@ -48,8 +62,8 @@ title:
 </div>
 
 <div style="display: inline-block; background-color:#FECD45;border: 3px solid; border-radius: 20px; border-color:#FECD45; margin-bottom: 30px;">
-	<div class="tiles">
-	<h2 style="color: #161F6D; padding:5px;">Creative</h2>
+	<h2 class="category-heading">Creative</h2>
+	<div class="flex-container">
 	{% for post in site.posts %}
 		{% if post.tags contains "creative" %}
 			{% include post-grid.html %}
@@ -58,8 +72,8 @@ title:
 	</div><!-- /.tiles -->
 </div>
 <div style="display: inline-block; background-color:#00ABE1;border: 3px solid; border-radius: 20px; border-color:#00ABE1; margin-bottom: 30px;">
-	<div class="tiles">
-	<h2 style="color: #161F6D; padding:5px;">Management</h2>
+	<h2 class="category-heading">Management</h2>
+	<div class="flex-container">
 	{% for post in site.posts %}
 		{% if post.tags contains "management" %}
 			{% include post-grid.html %}

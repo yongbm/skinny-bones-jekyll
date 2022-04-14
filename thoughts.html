@@ -5,6 +5,20 @@ title:
 ---
 
 <!-- {% include menu.html %} -->
+<style>
+.flex-container {
+  display: flex;
+  /*background-color: DodgerBlue;*/
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.category-heading{
+	color: #161F6D; 
+	padding-left:20px;
+}
+</style>
 
 <div>
 	<h5>
@@ -26,7 +40,7 @@ title:
 </div>
 
 <div style="display: inline-block; background-color: #00ABE1">
-	<div class="tiles">
+	<div class="flex-container">
 	<!-- <h2 style="color: #161F6D; padding:5px;">Thoughts</h2> -->
 	{% for post in site.posts %}
 		{% if post.categories contains "article" %}

@@ -2,12 +2,13 @@
 layout: media
 title: Seal proposal
 categories: portfolio
+excerpt: Electronic device designed as part of my proposal to my girlfriend.
 tags: engineering
 image:
  teaser: teaser/teaser-sealproposal.jpg
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Designed an Arduino-based device to propose to my girlfriend.
 
 ![seal proposal 1]({{ site.baseurl }}/images/portfolio/portfolio-seal1.jpg)
 *Seal proposal 1*

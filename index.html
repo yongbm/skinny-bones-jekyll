@@ -6,6 +6,21 @@ title:
 
 <!-- {% include menu.html %} -->
 
+<style>
+.flex-container {
+  display: flex;
+  /*background-color: DodgerBlue;*/
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.category-heading{
+	color: #161F6D; 
+	padding-left:20px;
+}
+</style>
+
 <div>
 	<h5>
 		<a class="btn" href="/">MAIN</a>
@@ -48,8 +63,8 @@ title:
 
 
 <div style="display: inline-block; background-color: #FECD45">
-	<div class="tiles">
-	<h2 style="color: #161F6D; padding:5px;">Highlights</h2>
+	<h2 class="category-heading">Highlights</h2>
+	<div class="flex-container">
 	{% for post in site.posts %}
 		{% if post.categories contains "highlights" %}
 			{% include post-highlights.html %}
@@ -59,8 +74,8 @@ title:
 </div>
 
 <div style="display: inline-block; background-color: #00ABE1">
-	<div class="tiles">
-	<h2 style="color: #161F6D; padding:5px;">Latest thoughts</h2>
+	<h2 class="category-heading">Latest thoughts</h2>
+	<div class="flex-container">
 	{% for post in site.posts limit:3 %}
 		{% if post.categories contains "article" %}
 			{% include post-grid.html %}

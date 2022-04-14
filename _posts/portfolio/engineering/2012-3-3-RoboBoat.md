@@ -2,6 +2,7 @@
 layout: media
 title: RoboBoat
 categories: portfolio
+excerpt: First attempt at making a waterproof electronic device.
 tags: engineering
 image:
  teaser: teaser/teaser-roboboat.jpg

@@ -2,6 +2,7 @@
 layout: media
 title: PhD project
 categories: portfolio
+excerpt: Case study research on growth of technology-based social enterprises in Cambridge.
 tags: engineering
 image:
  teaser: teaser/teaser-phd.jpg

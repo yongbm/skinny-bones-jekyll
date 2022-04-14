@@ -2,6 +2,7 @@
 layout: media
 title: Career Fair Promo
 categories: portfolio
+excerpt: A series of videos to promote university career fair.
 tags: creative
 image:
  teaser: teaser/teaser-careerfair.jpg

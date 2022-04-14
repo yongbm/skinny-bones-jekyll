@@ -2,6 +2,7 @@
 layout: media
 title: Autism VR
 categories: portfolio
+excerpt: Exploratory project to help autistic children learn through VR simulations.
 tags: engineering
 image:
  teaser: teaser/teaser-auvr.jpg
