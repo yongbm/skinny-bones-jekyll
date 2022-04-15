@@ -4,11 +4,11 @@ title: Importance of games
 categories: article
 excerpt: Why are games important?
 image:
- teaser: 400x250.gif
+ teaser: teaser\teaser-thought1.jpg
 published: true
 ---
 
-![test image Dogepig]({{site.baseurl}}/images/dogepig-Bang-Profile_png.png)
+![aladdin]({{site.baseurl}}/images/articles/thought1-aladdin.jpg)
 
 There are many reasons to play games. A simple Google search reveals many articles on the importance of games, such as to relax, to socialize, to improve yourself, etc., etc... I will not attempt to come up with some grand theory on why games are important (with this article at least). Instead I will just write about some of the memorable games that I have played at different stages of my life and how they have created an impact in my life.
 
@@ -71,4 +71,4 @@ Most of the games I played as an adult were online games. I am incredibly lucky 
 - Valheim
 - Call of Duty: Warzone
 
-To be continued...
+*To be continued...*
