@@ -2,16 +2,12 @@
 layout: article
 title: Importance of games
 categories: article
+excerpt: Why are games important?
 image:
  teaser: 400x250.gif
 ---
 
-Why are games important?
-
----
-
 Games are important because:
-
 
 ![test image Dogepig]({{site.baseurl}}/images/dogepig-Bang-Profile_png.png)
 
