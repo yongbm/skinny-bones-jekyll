@@ -8,9 +8,9 @@ image:
  teaser: teaser/teaser-kelvinsbirthday.jpg
 ---
 
-Developed a complete RPG game using RPG Maker 95 for my friend, Kelvin Long, as his birthday present. The characters are based on a few of our classmates. I created custom pixel art sprites using MS Paint 98 (great software) because that was all I had access at the time.
+When I was 14, I developed a complete RPG game using RPG Maker 95 for my friend, Kelvin Long, as his birthday present. The characters were based on a few of our classmates and the game was set in our school. I created custom pixel art sprites using MS Paint 98 (great software) because that was all I had access at the time.
 
-Had my 2 weeks of fame as all of my classmates were eagerly in queue to borrow the CD (ancient times) for the software. I had a lot of fun designing the characters, the maps, and also sprinkling the game with easter eggs and hidden treasures. This is arguably my first real taste of game development.
+For 2 weeks, all of my classmates were eagerly in queue to borrow the CD (ancient times) for the software. I had a lot of fun designing the characters, the maps, and also sprinkling the game with easter eggs and hidden treasures. This is notably my first real taste of game development.
 
 ![KB 1]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb1.jpg)
 ![KB 3]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb3.jpg)
@@ -20,5 +20,3 @@ Had my 2 weeks of fame as all of my classmates were eagerly in queue to borrow t
 ![KB 7]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb7.jpg)
 ![KB 8]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb8.jpg)
 ![KB 8]({{ site.baseurl }}/images/portfolio/games/kb/portfolio-kb9.jpg)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
