@@ -6,6 +6,7 @@ excerpt: Organised a robotics outreach workshop for secondary school students in
 tags: management
 image:
  teaser: teaser/teaser-ieeerobot.jpg
+yeartitle: 2013
 ---
 
 While studying for my bachelor’s degree in electronics engineering in Malaysia (circa 2012-2013), I had designed numerous original engineering outreach programmes to benefit my peers as well as underprivileged secondary school students. 

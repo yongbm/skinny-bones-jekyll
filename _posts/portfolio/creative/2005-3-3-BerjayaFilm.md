@@ -6,6 +6,7 @@ excerpt: First attempt at directing a short film.
 tags: creative
 image:
  teaser: teaser/teaser-berjayafilm2012.jpg
+yeartitle: 2012
 ---
 
 First attempt making a short film for a competition. Made with the help of some friends, notably, Jun Hoong, who also stars in the film. He had to play double duty as co-director when I was preoccupied with some other things. 

@@ -6,6 +6,7 @@ excerpt: Robot that is controlled via gestures captured from a Kinect sensor.
 tags: engineering
 image:
  teaser: teaser/teaser-proteus.jpg
+yeartitle: 2012
 ---
 
 Broter Proteus, a robot that I built with my partner, Man Yeap, for a robotics competition in Kuching, Sarawak. The robot utilizes Kinect to recognize hand gestures to control the robot.

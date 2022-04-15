@@ -6,6 +6,7 @@ excerpt: Exploratory project to help autistic children learn through VR simulati
 tags: engineering
 image:
  teaser: teaser/teaser-auvr.jpg
+yeartitle: 2021
 ---
 
 I have tried for many years to work on a technological solution to assist with the learning process by autistic children. The desire to help emerged when I was asked to visit Dato' Susie See's autism centre, Lions REACh, in Penang. Dato' Susie and her team are incredibly passionate in doing incredible work to help those afflicted by the autism condition in Penang.

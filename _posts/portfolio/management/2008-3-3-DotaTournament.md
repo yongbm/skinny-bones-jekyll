@@ -7,6 +7,7 @@ tags: management
 image:
  teaser: teaser/teaser-dotatournament.jpg
  # feature: feature/clouds.jpg
+yeartitle: 2008
 ---
 
 One of my earliest experiences of developing partnerships with external organizations and getting resources was in high school when I organized one of the first e-sports computer game tournament in Malaysia around 2008 as part of my Computer Club activities at Klang High School. I polled my Computers Club members on the activities that they would enjoy organizing. Most of them said they would love to organize a Dota computer game tournament but felt it was impossible as mere high school students. It is notable that at the time, e-sports was not as common as it is today. There was no precedence to organizing such a tournament in Malaysia at the time, certainly not as high school students.

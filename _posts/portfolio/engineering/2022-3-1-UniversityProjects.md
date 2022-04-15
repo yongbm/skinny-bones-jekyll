@@ -6,6 +6,7 @@ excerpt: Collection of electronic engineering university projects in USM.
 tags: engineering
 image:
  teaser: teaser/teaser-8051battleship.jpg
+yeartitle: 2013
 ---
 
 I truly enjoyed the time spent designing and developing electronic engineering projects in university. Among all the topics, I was most interested in embedded systems because it allowed me to create standalone devices. I was a huge proponent of Atmel's AVR microchips (now part of Microchip). Low-cost but incredibly powerful in nature. 

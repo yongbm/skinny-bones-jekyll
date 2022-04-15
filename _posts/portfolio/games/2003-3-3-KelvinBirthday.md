@@ -6,6 +6,7 @@ excerpt: RPG game starring my schoolmates which I designed when I was 14.
 tags: games
 image:
  teaser: teaser/teaser-kelvinsbirthday.jpg
+yeartitle: 2003
 ---
 
 When I was 14, I developed a complete RPG game using RPG Maker 95 for my friend, Kelvin Long, as his birthday present. The characters were based on a few of our classmates and the game was set in our school. I created custom pixel art sprites using MS Paint 98 (great software) because that was all I had access at the time.

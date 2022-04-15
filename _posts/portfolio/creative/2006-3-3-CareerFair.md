@@ -6,6 +6,7 @@ excerpt: A series of videos to promote university career fair.
 tags: creative
 image:
  teaser: teaser/teaser-careerfair.jpg
+yeartitle: 2010
 ---
 
 I directed a series of short videos to promote career fair in my university. Had a lot of fun making this. Videos were edited using Adobe After Effects and Premiere Pro.

@@ -6,6 +6,7 @@ excerpt: Case study research on growth of technology-based social enterprises in
 tags: engineering
 image:
  teaser: teaser/teaser-phd.jpg
+yeartitle: 2021
 ---
 
 The title of my doctoral thesis is "Growth of technology-based social enterprises in the manufacturing sector". I conducted an in-depth case studies on leading technology-based social enterprises in Cambridge to understand their process of growth. 

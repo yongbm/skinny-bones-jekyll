@@ -6,6 +6,7 @@ excerpt: City building game to promote sustainability in Malaysia, designed for 
 tags: games
 image:
  teaser: teaser/teaser-siemycity.jpg
+yeartitle: 2012
 ---
 
 I participated in a games design competition organized by Siemens Malaysia during my studies at USM. The theme was to design a city building game to promote sustainability in Malaysia. I led a team of my coursemates to participate in the competition. Despite having no background in games design, we were able to fully develop a functional prototype using the XNA engine.

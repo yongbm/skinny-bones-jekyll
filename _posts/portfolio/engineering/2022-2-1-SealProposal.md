@@ -6,6 +6,7 @@ excerpt: Electronic device designed as part of my proposal to my girlfriend.
 tags: engineering
 image:
  teaser: teaser/teaser-sealproposal.jpg
+yeartitle: 2016
 ---
 
 I built a custom electronic device to be used as part of my proposal to my then-girlfriend, now-wife, Vinye Goh. Since I was in Cambridge at the time, I had limited access to my usual equipment and had to leverage on the community at Cambridge Makespace to build my device on short notice. 

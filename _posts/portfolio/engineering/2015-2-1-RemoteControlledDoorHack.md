@@ -6,6 +6,7 @@ excerpt: Hacked my university dorm room door to utilize remote control instead o
 tags: engineering
 image:
  teaser: teaser/teaser-roomdoorhack.jpg
+yeartitle: 2010
 ---
 
 In my 2nd year at USM, I decided to hack my dorm room door to utilize remote control instead of boring old keys. I gave each one of my 3 roommates a remote control to use. This has been partially documented by my roommate on my Youtube channel (videos below). 

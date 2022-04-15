@@ -6,6 +6,7 @@ excerpt: Sustainability campaign to promote use of bicycles.
 tags: management
 image:
  teaser: teaser/teaser-ironhorse.jpg
+yeartitle: 2011
 ---
 
 It would be ludicrous if I were to suggest that I organized a cycling campaign in Cambridge. Cycling is second nature in Cambridge but that is not the case for many universities in Malaysia. I was appointed Project Director by my university during my bachelor’s degree to design and execute a cycling campaign to promote environmental sustainability through cycling.

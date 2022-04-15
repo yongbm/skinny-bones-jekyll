@@ -2,18 +2,15 @@
 layout: media
 title: Top graduate
 categories: highlights
+excerpt: Graduated top of my cohort in 2013.
 image:
  teaser: teaser/teaser-valedictorian.jpg
 ---
 
-Graduated top of my cohort in 2013.
-
----
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I have excelled academically during my bachelor’s degree in Electronics Engineering, leading to numerous awards at both national and international levels. I was selected as the valedictorian of my graduating class (out of 5,427 students across all fields) in 2013. During the graduation closing ceremony, I was given the privilege to deliver the valedictorian speech.
 
 ![valedictorian]({{ site.baseurl }}/images/highlights/highlights-valedictorian1.jpg)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+*I had my 15 mins of fame in various national newspapers.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7vxuAHmob9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

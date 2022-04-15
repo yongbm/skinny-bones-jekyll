@@ -24,7 +24,7 @@ title:
 	<h5>
 		<a class="btn-inverse" href="/">MAIN</a>
 		<a class="btn" href="thoughts.html">THOUGHTS</a>
-		<a class="btn-inverse" href="about.html">ABOUT</a>
+		<!-- <a class="btn-inverse" href="about.html">ABOUT</a> -->
 		<a class="btn-inverse" href="projects.html">PROJECTS</a>
 		<a class="btn-inverse" href="contact.html">CONTACT</a>
 	</h5>
@@ -44,7 +44,7 @@ title:
 	<!-- <h2 style="color: #161F6D; padding:5px;">Thoughts</h2> -->
 	{% for post in site.posts %}
 		{% if post.categories contains "article" %}
-			{% include post-grid.html %}
+			{% include post-thoughts.html %}
 		{% endif %}
 	{% endfor %}
 	</div><!-- /.tiles -->

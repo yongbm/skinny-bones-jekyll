@@ -6,6 +6,7 @@ excerpt: Windows app to interface between windows devices and Arduino, developed
 tags: engineering
 image:
  teaser: teaser/teaser-interware.jpg
+yeartitle: 2015
 ---
 
 Participted in MDEC's ICON Apps 3 under the Windows platform track. I developed an app to interface Windows devices with Arduino. 

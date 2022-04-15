@@ -6,6 +6,7 @@ excerpt: Cambridge VR projects.
 tags: engineering
 image:
  teaser: teaser/teaser-ifmvr.jpg
+yeartitle: 2017
 ---
 
 I supervised the creation of a virtual Institute for Manufacturing (IfM), my research department in Cambridge. The main idea was to create a virtual IfM that can showcase research by different research groups in an interesting manner.

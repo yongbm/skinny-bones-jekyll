@@ -6,6 +6,7 @@ excerpt: FPGA-based cervical cancer device which utlizes artificial neural netwo
 tags: engineering
 image:
  teaser: teaser/teaser-fpgacervical.jpg
+yeartitle: 2012
 ---
 
 I developed an FPGA-based device to diagnose for cervical cancer with the help of my parter, Yuan Jun, for an engineering competition, Innovate Malaysia 2012. The systems leverages on artificial neural networks (precursor to modern day machine learning) that was developed by our supervisor, Professor Ashidi.

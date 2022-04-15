@@ -6,6 +6,7 @@ excerpt: A series of videos to promote my high school computer club.
 tags: creative
 image:
  teaser: teaser/teaser-computerclub.jpg
+yeartitle: 2009
 ---
 
 I directed a series of videos as promos for my Computer Club to promote a workshop for designing games using RPG Maker (also delivered by me). It was my first attempt at using Adobe After Effects and Premiere Pro.

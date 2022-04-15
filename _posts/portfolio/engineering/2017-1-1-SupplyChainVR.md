@@ -6,6 +6,7 @@ excerpt: Exploratory project to visualize actual supply chain network data in VR
 tags: engineering
 image:
  teaser: teaser/teaser-supplychainvr.jpg
+yeartitle: 2016
 ---
 
 I collaborated with Dr. Alexandra Brintup on this exploratory project to visualize real-world supply chain network data in VR. The software was developed using Unity which rendered the network data through a JSON file. The project arises from a need to intuitively visualize complex supply chain network data. An intuitive visualization of how a supply chain is setup would enable top management to make more informed decisions.

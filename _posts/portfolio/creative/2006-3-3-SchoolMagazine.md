@@ -6,6 +6,7 @@ excerpt: Artwork designed for school magazine.
 tags: creative
 image:
  teaser: teaser/teaser-schoolmagazine.jpg
+yeartitle: 2006
 ---
 
 I was the Art Director for my school magazine. One of the artwork that I was quite proud to have produced as a 17 year old was the "Above the Clouds" class photo whihc I designed with some creative inputs from my father. It was a fun little project and my first foray into the world of Photoshop.
