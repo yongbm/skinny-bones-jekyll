@@ -78,7 +78,7 @@ title:
 	<div class="flex-container">
 	{% for post in site.posts limit:3 %}
 		{% if post.categories contains "article" %}
-			{% include post-thoughts.html %}
+		{% include post-thoughts.html %}
 		{% endif %}
 	{% endfor %}
 	</div><!-- /.tiles -->
