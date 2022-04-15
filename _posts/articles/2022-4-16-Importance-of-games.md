@@ -12,7 +12,7 @@ published: true
 
 There are many reasons to play games. A simple Google search reveals many articles on the importance of games, such as to relax, to socialize, to improve yourself, etc., etc... I will not attempt to come up with some grand theory on why games are important (with this article at least). Instead I will just write about some of the memorable games that I have played at different stages of my life and how they have created an impact in my life.
 
-I grew up with computers from an early age thanks to my father. As a kid (between 6-10), most of the games that I remember playing at this age were DOS-based. These games were purchased by my father in the form of 3.5 inch floppy disks. Perhaps it is nostalgia that has distorted my memory, but I think the graphics of most of the DOS games that I played were beautiful, even by today's standards. 
+I grew up with computers from an early age thanks to my father. As a kid (between 6-10), most of the games that I remember playing at this age were DOS-based. These games were purchased by my father in the form of 3.5 inch floppy disks. Perhaps it is nostalgia that has distorted my memory, but I remember the graphics of most of the DOS games that I played as beautiful, even by today's standards. 
 
 **DOS-based games**
 - Lion king
