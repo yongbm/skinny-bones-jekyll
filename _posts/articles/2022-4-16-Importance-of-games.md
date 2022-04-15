@@ -4,7 +4,7 @@ title: Importance of games
 categories: article
 excerpt: Why are games important?
 image:
- teaser: teaser\teaser-thought1.jpg
+ teaser: teaser/teaser-thought1.jpg
 published: true
 ---
 
