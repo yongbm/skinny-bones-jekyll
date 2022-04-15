@@ -63,14 +63,12 @@ We avoided playing against each other, and largely chose to player co-op against
 
 Although we initially experimented with many ways of playing together, our eventual strategy of choice was to join forces as early as we can, and collaboratively build our base by delegating base-building responsibilities. At the start of the game, we would identify which one of us has the best spot. The other two players would then farm just enough resource to build a Town Centre (to build workers), abandon the old base and migrate to build a new base near the player with the best spot. Then, we will start delegating tasks. One of us would be in charge of building base defenses, another would be in charge of building walls, and yet another would be in charge or building an offensive army. As there was an option to share resources, we discussed and managed the use of resources depending on priority. In hindsight, this strategy was not the best way to win in an RTS game against AI as we essentially turtled ourselves. However, it was the most fun way to play together. The big lesson I learnt here is the delegation of duties. It was a useful lesson in leading the numerous societies in school and university. Playing the game did not make me a better delegator of duties, but it did make me realize that sometimes it is just so much more fun for everyone to have their own role to play in achieving a goal. As long as their responsibilities are clearly communicated to them, people have a tendency to try their best to achieve it.
 
+Most of the games I played as an adult were online games. I am incredibly lucky to have a gamer wife who plays many of these games with me. To avoid this post from being too long, I will write about these games in a future post.
 
 **Online games**
 - Dota
 - Red Dead Redemption 2
 - Valheim
+- Call of Duty: Warzone
 
-**Other games**
-- Guitar Hero
-- Oregon Trail
-- Hitman 2
-
+To be continued...
