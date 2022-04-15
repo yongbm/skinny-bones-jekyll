@@ -5,7 +5,6 @@ categories: article
 excerpt: Why are games important?
 image:
  teaser: teaser/teaser-thought1.jpg
-published: true
 ---
 
 ![aladdin]({{site.baseurl}}/images/articles/thought1-aladdin.jpg)
