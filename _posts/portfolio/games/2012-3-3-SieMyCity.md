@@ -12,7 +12,10 @@ I participated in a games design competition organized by Siemens Malaysia durin
 
 The whole design process was indeed a lot of fun for all of us involved. All the graphical assets and codes were developed from scratch. As we had no formal training in games design, the game was developed in a "cowboy" manner. The game was fully playable as designed but in hindsight, we should have given more thoughts into designing the "fun" factor. Perhaps if we had read Raph Koster's "Theory of Fun" back then, we would have been able to improve upon the mechanics. As it were, the game was too fast paced with little room for exploring different strategies to achieve the win condition.
 
-All in all, development of the game was definitely a memorable experience.
+All in all, development of the game was definitely a memorable experience. Credits to my teammates who made this game happen: Lee Zhe Heng, Kiu Shiu Guong, Heng Peng Wei, and Heng Peng Zhi.
+
+![Siemycity 1]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity1.jpg)
+![Siemycity 2]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity2.jpg)
 
 An excerpt of the game overview from the game proposal:
 
@@ -35,10 +38,6 @@ Last but not least, the pacing of the game is intended to be fast. If the player
 
 : So it teaches yet another valuable lesson to players, to value time in saving the environment!
 
-Credits to my teammates who made this game happen: Lee Zhe Heng, Kiu Shiu Guong, Heng Peng Wei, and Heng Peng Zhi.
-
-![Siemycity 1]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity1.jpg)
-![Siemycity 2]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity2.jpg)
 ![Siemycity 3]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity3.jpg)
 ![Siemycity 4]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity4.jpg)
 ![Siemycity 5]({{ site.baseurl }}/images/portfolio/games/siemycity/portfolio-siemycity5.jpg)

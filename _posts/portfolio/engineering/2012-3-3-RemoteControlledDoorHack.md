@@ -8,14 +8,14 @@ image:
  teaser: teaser/teaser-roomdoorhack.jpg
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In my 2nd year at USM, I decided to hack my dorm room door to utilize remote control instead of boring old keys. I gave each one of my 3 roommates a remote control to use. This has been partially documented by my roommate on my Youtube channel (videos below). 
+
+What was not documented was that due to hubris in my designs, I opted not to bring my keys on my first night out after installing the system. An infinite loop caused by a misplaced semi-colon in the code locked me out for the whole night.
 
 ![interware 2]({{ site.baseurl }}/images/portfolio/portfolio-doorhack4.jpg)
 ![interware 2]({{ site.baseurl }}/images/portfolio/portfolio-doorhack1.jpg)
 ![interware 2]({{ site.baseurl }}/images/portfolio/portfolio-doorhack2.jpg)
 ![interware 2]({{ site.baseurl }}/images/portfolio/portfolio-doorhack3.jpg)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rSteVed6txM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

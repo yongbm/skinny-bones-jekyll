@@ -8,10 +8,10 @@ image:
  teaser: teaser/teaser-berjayafilm2012.jpg
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+First attempt making a short film for a competition. Made with the help of some friends, notably, Jun Hoong, who also stars in the film. He had to play double duty as co-director when I was preoccupied with some other things. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The experience taught me that shooting a film is bloody hard. The scene you imagine in your head is hard to shoot than expected due to limitations with resources. The people, the setting, the retakes... not easy. The tone of the short film was also more sombre than we wanted it to be, primarily because we did not have access to appropriate music at the time.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am still proud of the fact we managed to complete this project. It was tough but we pulled through and finished it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pUHWiQqzvUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
