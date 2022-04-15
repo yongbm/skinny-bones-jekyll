@@ -44,17 +44,33 @@ There are so many things I can talk about on the emulated games that I played du
 
 A few years later, when Digimon World 2 was released, we did the same thing, completed the Japanese version with the help of walkthroughs and FAQs. However, our confidence did eventually grow a tad too big and we purchased some Japanese games that were not popular enough to have online walkthroughs. Despite a lot of trial and errors, we still could not figure them out. Still, I learnt a great lesson in being resourceful and resilient to achieve an objective. I never considered not playing the games as an option. All I could think of at that time were thoughts like, "How to get past the pesky NPC that is blocking the path! What does he want??".
 
-**LAN-games**
-- AoE 2, Starcraft, Red Alert 2
+As a teenager, I played a lot of LAN games, mainly with my brothers and cousins. I was fortunate that my father got me and my brothers each a PC of our own. Although the specs were not the greatest, it was sufficient to play most games at least on the lowest graphical settings.
+
+The interaction enabled by LAN games made games so much more enjoyable to play with other people. Many good memories were made in the land of Dungeon Siege as well as in the high-stakes hostage rescue mission of CS_Assault. However, some of the most memorable LAN sessions were from playing real-time strategy (RTS) games like Red Alert 2 with my brothers and cousins.
+
+**LAN games**
+- Age of Empires 2
+- Starcraft
+- Red Alert 2
+- Star Wars: Galactic Battlegrounds
 - Dungeon Siege
 - Counter-strike
 - NBA Live 2006
+
+Although games like Starcraft or Age of Empires 2 were more popular, we never really played those games in multiplayer LAN. The most memorable RTS game that we played in multiplayer LAN was Star Wars: Galactic Battlegrounds (SWGB). SWGB was based on the Genie engine, also used by Age of Empires 2 (AoE2). Despite not knowing this fact at the time, we pretty much intuitively felt that SWGB was more or less a reskin of AoE2 but with stormtroopers and Jedis. The futuristic theme made it more fun for us as teenagers.
+
+We avoided playing against each other, and largely chose to player co-op against computer AI. Although we never really talked about it, I believe we wanted to avoid negative feelings associated with being crushed in a game by family members (though I can say as adults, that sentiment has completely flipped). We played many long sessions of SWGB in co-op against AI. The most notable being a 4-hour session that was unfortunately cut short by the game crashing.
+
+Although we initially experimented with many ways of playing together, our eventual strategy of choice was to join forces as early as we can, and collaboratively build our base by delegating base-building responsibilities. At the start of the game, we would identify which one of us has the best spot. The other two players would then farm just enough resource to build a Town Centre (to build workers), abandon the old base and migrate to build a new base near the player with the best spot. Then, we will start delegating tasks. One of us would be in charge of building base defenses, another would be in charge of building walls, and yet another would be in charge or building an offensive army. As there was an option to share resources, we discussed and managed the use of resources depending on priority. In hindsight, this strategy was not the best way to win in an RTS game against AI as we essentially turtled ourselves. However, it was the most fun way to play together. The big lesson I learnt here is the delegation of duties. It was a useful lesson in leading the numerous societies in school and university. Playing the game did not make me a better delegator of duties, but it did make me realize that sometimes it is just so much more fun for everyone to have their own role to play in achieving a goal. As long as their responsibilities are clearly communicated to them, people have a tendency to try their best to achieve it.
+
 
 **Online games**
 - Dota
 - Red Dead Redemption 2
 - Valheim
 
+**Other games**
 - Guitar Hero
 - Oregon Trail
+- Hitman 2
 
