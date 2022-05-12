@@ -77,3 +77,5 @@ exclude:
   - package.json
   - spec
   - tmp
+
+  google_analytics: UA-228663747-1
