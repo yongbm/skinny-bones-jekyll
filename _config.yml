@@ -39,6 +39,9 @@ footer-links:
   youtube: dante10ybm # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
+#Google analytics
+google_analytics: UA-228663747-1
+
 # Site owner
 owner:
   name: Bang
@@ -77,5 +80,3 @@ exclude:
   - package.json
   - spec
   - tmp
-
-  google_analytics: UA-228663747-1
