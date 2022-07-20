@@ -9,7 +9,7 @@ image:
 yeartitle: 2021
 ---
 
-The title of my doctoral thesis is "Growth of technology-based social enterprises in the manufacturing sector". I conducted an in-depth case studies on leading technology-based social enterprises in Cambridge to understand their process of growth. 
+The title of my doctoral thesis is "Growth of technology-based social enterprises in the manufacturing sector". I conducted in-depth case studies on leading technology-based social enterprises in Cambridge to understand their process of growth. 
 
 This research stems from the recent intersection of two entrepreneurship streams – technology and social – that has given rise to the emergence of technology-based social enterprises (TSEs). TSEs are of particular interest to many stakeholders as they have the potential to provide scalable solutions from a technological perspective to address diverse social challenges in the world. However, a review of the literature revealed a gap in knowledge on the growth process of TSEs because: 
 1. TSEs are an emerging phenomenon; 
