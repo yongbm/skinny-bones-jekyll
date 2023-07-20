@@ -20,7 +20,7 @@ Donjon Fauna won the People's Choice Award at Develop:Brighton 2023.
 
 The prototype was funded by a grant from Malaysia Digital Economy Corporation (MDEC) and the Malaysian Ministry of Communications and Digital.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zipseFMan6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zipseFMan6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![Fauna 1]({{ site.baseurl }}/images/portfolio/games/fauna/portfolio-fauna8.jpg)
 
