@@ -9,11 +9,20 @@ image:
 yeartitle: 2023
 ---
 
-I was awarded a grant to develop a prototype of a VR game by the Malaysia Digital Economy Corporation (MDEC) and the Malaysian Ministry of Communications and Digital. I successfully led the development of our proposed VR game prototype, Donjon Fauna. I served as the game director as well as programming and narrative lead for Donjon Fauna. I assembled the core team and the advisory team. We leveraged expertise from our advisors to develop the creature behavior. The prototype was developed using Unity. 
+![Fauna 1]({{ site.baseurl }}/images/portfolio/games/fauna/portfolio-fauna6.jpg)
 
 Donjon Fauna is an “asymmetric VR co-op fantasy creature veterinarian simulator” where a VR player cooperates with a non-VR player to heal wounded fantasy creatures. The VR player plays the role of a creature veterinarian intern, tasked with healing wounded creatures which are brought into the creature veterinary. However, the VR player does not have direct access to the manual with instructions required to heal the creatures and will need to rely on help from a non-VR player with a manual. The location of Donjon Fauna veterinarian center is based in a modified underground dungeon.
 
-A video of the gameplay can be shared upon request.
+
+Donjon Fauna won the People's Choice Award at Develop:Brighton 2023.
+
+![Fauna 1]({{ site.baseurl }}/images/portfolio/games/fauna/portfolio-fauna7.jpg)
+
+The prototype was funded by a grant from Malaysia Digital Economy Corporation (MDEC) and the Malaysian Ministry of Communications and Digital.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zipseFMan6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![Fauna 1]({{ site.baseurl }}/images/portfolio/games/fauna/portfolio-fauna8.jpg)
 
 ![Fauna 1]({{ site.baseurl }}/images/portfolio/games/fauna/portfolio-fauna1.jpg)
 
